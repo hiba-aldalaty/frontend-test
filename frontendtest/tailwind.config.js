@@ -7,11 +7,10 @@ export default {
         lato: ['Lato', 'sans-serif']
       },
       fontSize: {
-        title: '4.5rem',
-        subtitle: '1.6rem',
         paragraph: '2.25rem',
         sm: '1.125rem',
-        md: '1.625rem'
+        md: '1.625rem',
+        lg: '4.5rem'
       },
       borderRadius: {
         sm: '5px'
@@ -20,7 +19,7 @@ export default {
         graphite: '#25303B',
         blue: '#148FCF',
         sky: '#63C1FF',
-        lightGray: '#425765'
+        lightGray: 'rgba(66, 87, 101, 0.2)'
       }
     }
   },
